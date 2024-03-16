@@ -1,5 +1,5 @@
 # ivan4722
-- Hi, my name is Ivan Xiong 👋🐸
+![header](https://i.imgur.com/ldbOX1J.png)
 - Junior, CS+Math at NYU
 - Currently working on: an analysis of wordle's word choice https://github.com/ivan4722/wordle
 - check out my real time translation discord bot: https://github.com/ivan4722/TranslaDORA
