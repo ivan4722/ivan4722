@@ -16,7 +16,6 @@
 [![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
-[![API](https://img.shields.io/badge/-API-FF9900?logo=apiary&logoColor=white&style=for-the-badge)](https://www.apiary.io/)
 [![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=for-the-badge)](https://www.json.org/)
 [![Linux/Unix](https://img.shields.io/badge/-Linux%2FUnix-000000?logo=linux&logoColor=white&style=for-the-badge)](https://www.linux.org/)
 [![Shell](https://img.shields.io/badge/-Shell-5391FE?logo=gnu-bash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
