@@ -21,6 +21,7 @@
 [![Linux/Unix](https://img.shields.io/badge/-Linux%2FUnix-000000?logo=linux&logoColor=white&style=for-the-badge)](https://www.linux.org/)
 [![Shell](https://img.shields.io/badge/-Shell-5391FE?logo=gnu-bash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
 [![Pandas/NumPy](https://img.shields.io/badge/-Pandas%2FNumPy-4EABD6?logo=pandas&logoColor=white&style=for-the-badge)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)](https://scikit-learn.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)
 [![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white&style=for-the-badge)](https://expressjs.com/)
 [![RestAPI](https://img.shields.io/badge/-RestAPI-009688?logo=rest&logoColor=white&style=for-the-badge)](https://restfulapi.net/)
