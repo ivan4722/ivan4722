@@ -2,7 +2,7 @@
 ![header](https://i.imgur.com/ldbOX1J.png)
 *Junior, CS+Math at NYU*\
 📚 **I like building websites both front-end and back-end in NodeJS/ReactJS/HTML/CSS and working with data with python and ML libraries!**
-- 📈 Currently working on: an analysis of wordle's word choice https://github.com/ivan4722/wordle
+- 📈 Currently working on: a full stack (MERN) tamogatchi website https://github.com/ivan4722/pet
 - 🧩 Try and solve today's daily probability puzzle: http://4722hq.com:4000/
 - 🤖 Check out my real time translation discord bot: https://github.com/ivan4722/TranslaDORA
 - ❤️ Read up on how to predict heart disease using machine learning: https://github.com/ivan4722/Predicting-Heart-Disease-With-Machine-Learning
