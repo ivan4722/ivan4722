@@ -3,6 +3,7 @@
 *Junior, CS+Math at NYU*\
 📚 **I like building websites both front-end and back-end in NodeJS/ReactJS/HTML/CSS and working with data with python and ML libraries!**
 - 📈 Currently working on: a full stack (MERN) tamogatchi website https://github.com/ivan4722/pet
+- 🐶 Raise your own online pets, and share it with a friend!: http://4722hq.com:3000/
 - 🧩 Try and solve today's daily probability puzzle: http://4722hq.com:4000/
 - 🤖 Check out my real time translation discord bot: https://github.com/ivan4722/TranslaDORA
 - ❤️ Read up on how to predict heart disease using machine learning: https://github.com/ivan4722/Predicting-Heart-Disease-With-Machine-Learning
