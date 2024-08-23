@@ -6,6 +6,7 @@
 - 🐶 Raise your own online pets, and share it with a friend!: http://4722hq.com:3000/
 - 🧩 Try and solve today's daily probability puzzle: http://4722hq.com:4000/
 - 🤖 Check out my real time translation discord bot: https://github.com/ivan4722/TranslaDORA
+- 💸 See if you should long a stock of your choice today: https://github.com/ivan4722/PredictLongPositionsInStocks (not financial advice)
 - 🎵 Read up on how to predict spotify genre using machine learning (XGBoost, PCA): https://github.com/ivan4722/SpotifySongGenrePrediction
 - 🥑 Make your own custom AI tailored shopping list here: https://petalite-plausible-playroom.glitch.me/
 - 🧍‍♂️ Finally, check out my personal website here: https://ivanxiong.com/
